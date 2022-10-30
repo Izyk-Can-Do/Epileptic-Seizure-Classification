@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gabilayeff
-- 👀 I’m interested in Biomedical Engineering
+- 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently studying at Gazi University
 - 📫 How to reach me igabilayeff@gmail.com
 

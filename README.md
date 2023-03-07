@@ -61,5 +61,4 @@ A total of 64 features were extracted.
 - Sample entropy
 - Permutation entropy
 
-
--**************************************************************Created by Yaşar Uz and Islam Gabilayev*******************************************
+                                                              **Created by Yaşar Uz (Nervium) and Islam Gabilayev (gabilayeff)**

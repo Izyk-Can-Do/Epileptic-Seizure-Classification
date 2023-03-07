@@ -62,4 +62,4 @@ A total of 64 features were extracted.
 - Permutation entropy
 
 
-*******************************Created by Yaşar Uz and Islam Gabilayev*******************************************
+-**************************************************************Created by Yaşar Uz and Islam Gabilayev*******************************************

@@ -60,3 +60,6 @@ A total of 64 features were extracted.
 - Approximate entropy
 - Sample entropy
 - Permutation entropy
+
+
+*******************************Created by Yaşar Uz and Islam Gabilayev*******************************************
